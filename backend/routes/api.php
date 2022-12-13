@@ -7,6 +7,7 @@ use App\Http\Controllers\API\AuthController;
 use App\Http\Controllers\API\BlogController;
 use App\Http\Controllers\API\EventController;
 use App\Http\Controllers\API\DirectorController;
+use App\Http\Controllers\API\RegistroController;
   
 /*
 |--------------------------------------------------------------------------
